@@ -19,9 +19,9 @@ ignore_missing_imports = True
 my_database = mysql.connector.connect(
   host = "127.0.0.1",
   port = "3306",
-  user = "root",
-  password = "roottoor",
-  database = "travel_system"
+  user = "###",
+  password = "###",
+  database = "###"
 )
 
 #creating tables if they don't exist
